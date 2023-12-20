@@ -1,4 +1,6 @@
 # AlgoPro-project-Stuck
+![image](https://github.com/esojas/AlgoPro-project-Stuck/assets/144889670/8a002a07-21b5-4b7e-a7cf-9794ea9d67f5)
+
 
 # About the game
 im creating a 2d platformer where player has 1 bullet to shoot at an object that will dissapear after getting shot. Where it will then drop a block that can be place anywhere by the player. 
